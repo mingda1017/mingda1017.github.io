@@ -2111,6 +2111,9 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background5.jpg");
 }
+.cid-qECEq5V8E9 I {
+  color: #c48c29;
+}
 .cid-qECFKBgb2T {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2152,6 +2155,7 @@ body {
 }
 .cid-qECFKBgb2T .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-qECFKBgb2T a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2204,6 +2208,9 @@ body {
   .cid-qECFKBgb2T .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
+}
+.cid-qECFKBgb2T B {
+  color: #ff3366;
 }
 .cid-qy2C8KgIGk .navbar {
   padding: .5rem 0;
