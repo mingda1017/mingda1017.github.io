@@ -2574,3 +2574,26 @@ body {
     flex-shrink: 0;
   }
 }
+.cid-qEEfZ8OjDH {
+  background: #ffffff;
+}
+.cid-qEEfZ8OjDH .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qEEfZ8OjDH .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qEEfZ8OjDH figcaption {
+  position: relative;
+}
+.cid-qEEfZ8OjDH figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qEEfZ8OjDH .image-block {
+    width: 100% !important;
+  }
+}
